@@ -1,6 +1,6 @@
 # ATM Banking Management System
 
-This project is a Banking Management System developed using Spring Boot and Java.
+This project is a ATM Management System developed using Spring Boot and Java.
 
 ## Modules
 
